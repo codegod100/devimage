@@ -1,0 +1,25 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "cmatrix@latest": {
+      "last_modified": "2024-01-14T03:55:27Z",
+      "resolved": "github:NixOS/nixpkgs/dd5621df6dcb90122b50da5ec31c411a0de3e538#cmatrix",
+      "source": "devbox-search",
+      "version": "2.0",
+      "systems": {
+        "aarch64-darwin": {
+          "store_path": "/nix/store/2birq6hq9615bxsk9v4znnx2ng9jqlkz-cmatrix-2.0"
+        },
+        "aarch64-linux": {
+          "store_path": "/nix/store/6242imdars1fvh5yjgn6sggmncs3fwh1-cmatrix-2.0"
+        },
+        "x86_64-darwin": {
+          "store_path": "/nix/store/x24q3j63ygg7mwh4dzfasj2s1ib7jlvk-cmatrix-2.0"
+        },
+        "x86_64-linux": {
+          "store_path": "/nix/store/cpy32ffp9d5wyp48zbfpabbklp2vig52-cmatrix-2.0"
+        }
+      }
+    }
+  }
+}
